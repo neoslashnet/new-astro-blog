@@ -10,12 +10,12 @@ export default {
         'dribbble': false,
         'facebook': false,
         'github': 'https://github.com/palmiak',
-        'linkedin': 'https://www.linkedin.com/in/dgaliata/'
+        'linkedin': 'https://www.linkedin.com/in/dgaliata/',
         'instagram': false,
         'mastodon': false,
         'pinterest': false,
         'skype': false,
-        'twitter': false,
+        'twitter': false
         
 
     }
