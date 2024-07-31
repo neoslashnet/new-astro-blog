@@ -14,7 +14,7 @@ export default {
         'mastodon': false,
         'pinterest': false,
         'skype': false,
-        'twitter': false
+        'twitter': false,
         'linkedin': 'https://www.linkedin.com/in/dgaliata/'
 
     }
