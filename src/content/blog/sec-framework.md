@@ -47,7 +47,6 @@ The main elements within this pillar include:
 - Ensure that the organization’s security and compliance efforts are effective and meet industry standards and regulations.
 
 # What About Governance?
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1713069768013/15fddbf6-9770-4170-9d09-528c193c8b96.jpeg" alt="governance image" width="600" height="600">
 
 Governance is an integral component of each pillar:
 
