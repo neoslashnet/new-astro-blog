@@ -1,11 +1,11 @@
 export default {
-    title: "Homepage",
-    titleSuffix: " | Pacamara ☕",
-    description: "Aromatic brew, pure indulgence, exquisite satisfaction.Default description",
-    defaultOgImage: "./defaultog.jpg",
-    latestPosts: 3,
-    postsPerPage: 3,
-    url: "https://pacamara-astro-6y7xr.kinsta.page",
+    title: "David Galiata's Blog",
+    titleSuffix: " | galiata.blog☕",
+    description: "I am an IT Consultant turned Cybersecurity Architect with a passion for DevOps, Cybersecurity, and Cloud technologies. Committed to lifelong learning, I enjoy sharing my industry adventures through blogging.",
+    defaultOgImage: "./logo.png",
+    latestPosts: 5,
+    postsPerPage: 5,
+    url: "https://galiata.blog",
     social: {
         'dribbble': false,
         'facebook': false,
