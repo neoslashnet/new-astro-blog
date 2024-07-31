@@ -14,7 +14,8 @@ export default {
         'mastodon': false,
         'pinterest': false,
         'skype': false,
-        'twitter': 'https://twitter.com/palmiak_fp'
+        'twitter': false
+        'linkedin': 'https://www.linkedin.com/in/dgaliata/'
 
     }
 }
