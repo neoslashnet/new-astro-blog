@@ -2,7 +2,7 @@
 title: "A Cybersecurity Program Framework"
 pubDate: 2024-02-14
 intro: A reusable starting point for building a cybersecurity program.
-author: David Galiata
+author: dg
 image: ../../assets/featured.jpg
 ---
 
