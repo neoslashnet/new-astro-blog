@@ -4,7 +4,7 @@ pubDate: 2021-03-15
 intro: A place to start learning foundational AWS knowledge.
 author: dg
 tag: AWS, Cloud
-image: ../../assets/checklist.jpg
+image: ../../assets/aws.png
 ---
 
 Over the last year, I've worked on having my consulting firm become an AWS partner. In addition to the partnership, I've worked on becoming certified at both the Cloud Practitioner level and Associate level.

@@ -4,7 +4,7 @@ pubDate: 2021-03-18
 intro: How to view routing table on macOS.
 author: dg
 tag: macOS
-image: ../../assets/checklist.jpg
+image: ../../assets/rtable.png
 ---
 
 I set up and configured an AWS Client VPN Endpoint that is routing through a VPC with a transit gateway. There are several routes that run through the transit gateway and a VPN attachment as well.

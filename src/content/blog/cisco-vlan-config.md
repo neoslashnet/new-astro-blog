@@ -4,7 +4,7 @@ pubDate: 2019-06-16
 intro: How to configure DHCP Scopes for separate VLANs- Cisco.
 author: dg
 tag: Networking, Cisco
-image: ../../assets/checklist.jpg
+image: ../../assets/asa.jpg
 ---
 
 This comes up often enough on core switches and routers. Below is how to configure four VLANs, VLAN interfaces, and DHCP scopes for each VLAN.

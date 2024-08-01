@@ -4,7 +4,7 @@ pubDate: 2021-03-04
 intro: Perform packet captures on a Cisco ASA firewall.
 author: dg
 tag: Networking, Cisco
-image: ../../assets/checklist.jpg
+image: ../../assets/asa.jpg
 ---
 I've found that people sometimes get nervous running debug commands as well as captures. There are horror stories where you run a debug command and the firewall just locks up.
 

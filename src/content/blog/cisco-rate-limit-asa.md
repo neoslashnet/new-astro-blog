@@ -4,7 +4,7 @@ pubDate: 2020-03-20
 intro: How to rate limit a host with Cisco ASA.
 author: dg
 tag: Networking, Cisco
-image: ../../assets/checklist.jpg
+image: ../../assets/asa.jpg
 ---
 Do you have a host on your network using up all the bandwidth? Maybe an offsite backup device keeps sending GBs of data offsite?
 

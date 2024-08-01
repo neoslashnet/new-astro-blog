@@ -4,7 +4,7 @@ pubDate: 2021-03-21
 intro: How to add custom CSS for your Hashnode blog
 author: dg
 tag: Networking, Fortinet
-image: ../../assets/checklist.jpg
+image: ../../assets/css.jpg
 ---
 
 ---
