@@ -4,7 +4,7 @@ pubDate: 2024-07-27
 intro: Understanding the OWASP Key Web Application Security Risks.
 author: dg
 tag: Cybersecurity
-image: ../../assets/owasp.jpg
+image: ../../assets/owasp.png
 ---
 
 # Introduction
