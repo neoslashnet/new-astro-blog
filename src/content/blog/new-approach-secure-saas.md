@@ -4,7 +4,7 @@ pubDate: 2023-10-19
 intro: Taking a look at a new approach to securing SaaS.
 author: dg
 tag: Cybersecurity, SaaS
-image: ../../assets/saas.jpg
+image: ../../assets/new-saas.jpg
 ---
 
 # Introduction

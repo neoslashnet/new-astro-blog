@@ -4,7 +4,7 @@ pubDate: 2023-02-27
 intro: How To Uninstall the ManageEngine agent on macOS.
 author: dg
 tag: macOS
-image: ../../assets/checklist.jpg
+image: ../../assets/manage-engine.jpg
 ---
 
 # Introduction
