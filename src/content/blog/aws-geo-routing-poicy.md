@@ -4,7 +4,7 @@ pubDate: 2024-02-27
 intro: A quick look at two Route 53 routing policies.
 author: dg
 tag: AWS, Cloud
-image: ../../assets/checklist.jpg
+image: ../../assets/awsgeo.png
 ---
 
 # Introduction

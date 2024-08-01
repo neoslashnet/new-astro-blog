@@ -4,7 +4,7 @@ pubDate: 2024-05-21
 intro: How to get Chocolatey up and running quickly on Windows.
 author: dg
 tag: Microsoft, Windows
-image: ../../assets/checklist.jpg
+image: ../../assets/choco.jpg
 ---
 
 # Introduction
