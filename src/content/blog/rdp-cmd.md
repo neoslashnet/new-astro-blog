@@ -4,7 +4,7 @@ pubDate: 2021-04-18
 intro: Quickly enable RDP From CMD prompt.
 author: dg
 tag: Microsoft
-image: ../../assets/saas.png
+image: ../../assets/saas.jpg
 ---
 I ran into a situation this morning where I needed to quickly enable RDP on a remote machine. Sysinternals to the rescue!
 
