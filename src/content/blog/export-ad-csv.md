@@ -4,7 +4,7 @@ pubDate: 2019-06-20
 intro: Learn how to export AD Audit details to CSV.
 author: dg
 tag: Networking, Fortinet
-image: ../../assets/checklist.jpg
+image: ../../assets/4393.jpg
 ---
 
 This is a very useful script I wrote to generate a .csv that shows valuable information from Active Directory.

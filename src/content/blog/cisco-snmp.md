@@ -4,7 +4,7 @@ pubDate: 2020-03-10
 intro: SNMP Configuration on Cisco switch and router.
 author: dg
 tag: Networking, Cisco
-image: ../../assets/asa.jpg
+image: ../../assets/cisco.jpg
 ---
 Quick SNMP Config for a Cisco Router or Switch.
 
