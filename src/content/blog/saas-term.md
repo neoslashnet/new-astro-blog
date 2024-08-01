@@ -4,7 +4,7 @@ pubDate: 2024-02-14
 intro: What to look for when you're ending a SaaS contract.
 author: dg
 tag: Cybersecurity, SaaS
-image: ../../assets/checklist.jpg
+image: ../../assets/saasterm.jpg
 ---
 
 # Introduction

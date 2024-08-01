@@ -4,7 +4,7 @@ pubDate: 2024-02-23
 intro: Get cloud design right from the start.
 author: dg
 tag: AWS, Cloud
-image: ../../assets/checklist.jpg
+image: ../../assets/awswaf.jpg
 ---
 
 # Introduction
