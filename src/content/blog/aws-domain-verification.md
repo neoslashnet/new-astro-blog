@@ -4,7 +4,7 @@ pubDate: 2020-05-11
 intro: GoDaddy Domain verification via DNS TXT record in AWS.
 author: dg
 tag: AWS, Cloud, DNS
-image: ../../assets/checklist.jpg
+image: ../../assets/aws2.png
 ---
 There's no question that AWS Route 53 is an extremely powerful service in the cloud. I've been using it frequently for about 6 months and recently found a small quirk while proving domain ownership.
 

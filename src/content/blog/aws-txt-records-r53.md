@@ -4,7 +4,7 @@ pubDate: 2021-02-12
 intro: Quickly create multiple TXT records in AWS Route 53.
 author: dg
 tag: AWS, Cloud, DNS
-image: ../../assets/checklist.jpg
+image: ../../assets/aws.png
 ---
 
 Domain verification has become something everyone has to do to use certain services. For example, Microsoft 365. I ran into a little snag today and it wasn't as straightforward as I thought.

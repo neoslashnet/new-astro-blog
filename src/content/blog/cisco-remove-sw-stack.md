@@ -4,7 +4,7 @@ pubDate: 2019-09-24
 intro: How to remove a switch from a Cisco switch stack.
 author: dg
 tag: Networking, Cisco
-image: ../../assets/checklist.jpg
+image: ../../assets/cisco.jpg
 ---
 Last week I had to "Break" a stack where there were four switches and I needed to use one outside in an IDF.
 
