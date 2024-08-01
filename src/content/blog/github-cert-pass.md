@@ -4,7 +4,7 @@ pubDate: 2024-01-31
 intro: Explore the strategies I used to successfully pass the GitHub Foundations Exam.
 author: dg
 tag: GitHub, Certification
-image: ../../assets/github.jpeg
+image: ../../assets/github.png
 ---
 
 # Introduction
