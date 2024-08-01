@@ -4,7 +4,7 @@ pubDate: 2019-05-13
 intro: Exploring the Microsoft 365 Shared Responsibility Model.
 tag: Microsoft
 author: dg
-image: ../../assets/saas.jpg
+image: ../../assets/shared.png
 ---
 
 # Introduction

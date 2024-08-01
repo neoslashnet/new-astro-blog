@@ -4,7 +4,7 @@ pubDate: 2019-03-07
 intro: Quickly go from a DHCP address to Static via command line.
 author: dg
 tag: Networking
-image: ../../assets/checklist.jpg
+image: ../../assets/terminal.jpg
 ---
 Often I work with network devices locally that require a static IP address. Once I am done I usually need to set my network adapter back to DHCP. I recently created a batch file to save me the hassle of going back to "Control Panel", etc.
 

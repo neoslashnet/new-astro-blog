@@ -4,7 +4,7 @@ pubDate: 2021-02-02
 intro: Troubleshoot when the Freeradius service will not start on your server.
 author: dg
 tag: Linux
-image: ../../assets/checklist.jpg
+image: ../../assets/radius.png
 ---
 Earlier today I made a simple change to a freeradius server at one of my clients. After making this change, I attempted to restart the service. I received the following error-
 
