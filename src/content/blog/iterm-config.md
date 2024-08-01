@@ -4,7 +4,7 @@ pubDate: 2021-02-23
 intro: Set up your terminal with this Oh My Zsh quick config.
 author: dg
 tag: macOS
-image: ../../assets/checklist.jpg
+image: ../../assets/iterm.jpg
 ---
 
 I recently went through the process to configure my iTerm2 shell in macOS. Here is a quick guide to get it up and running in little to no time.
