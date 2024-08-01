@@ -4,7 +4,7 @@ pubDate: 2021-10-07
 intro: Check Sharepoint owners with PowerShell.
 author: dg
 tag: Microsoft
-image: ../../assets/saas.jpg
+image: ../../assets/sp.jpeg
 ---
 Earlier this week I had a request from a client that asked me for an export of all their SharePoint sites which included the site owner. This client has a large number of sites so I didn't want to take screen captures manually. I put together this PowerShell script to export a csv file. 
 
