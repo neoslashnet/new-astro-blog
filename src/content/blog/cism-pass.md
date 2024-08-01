@@ -4,7 +4,7 @@ pubDate: 2022-11-08
 intro: How to pass CISM on first attempt.
 author: dg
 tag: Certification, CISM
-image: ../../assets/checklist.jpg
+image: ../../assets/cism.jpg
 ---
 
 # Introduction

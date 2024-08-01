@@ -4,7 +4,7 @@ pubDate: 2022-03-01
 intro: My new Bullet journal method.
 author: dg
 tag: Productivity
-image: ../../assets/checklist.jpg
+image: ../../assets/journal.jpg
 ---
 
 # Intro

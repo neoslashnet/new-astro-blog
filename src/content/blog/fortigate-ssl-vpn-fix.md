@@ -4,7 +4,7 @@ pubDate: 2020-03-03
 intro: How to resolve SSL VPN disconnects with Fortinet firewalls.
 author: dg
 tag: Networking, Fortinet
-image: ../../assets/checklist.jpg
+image: ../../assets/fortinet.jpg
 ---
 
 I have performed a couple of Fortinet SD-WAN implementations and have been thoroughly impressed with them. It's fairly straightforward to set up and quite powerful.

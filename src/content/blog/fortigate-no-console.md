@@ -4,7 +4,7 @@ pubDate: 2022-07-28
 intro: How to reset fortigate firewall with no console cable.
 author: dg
 tag: Networking, Fortinet
-image: ../../assets/checklist.jpg
+image: ../../assets/fortinet.jpg
 ---
 
 I got a call today from a colleague who was on site and needed to factory reset a Fortigate 60E but didn't have a serial to USB cable. I immediately thought of how often I take having a console cable and serial to USB cable for granted.

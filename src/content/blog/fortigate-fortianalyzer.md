@@ -4,7 +4,7 @@ pubDate: 2019-04-19
 intro: Enable Fortinet Firewall + Fortianalyzer to resolve hostnames in Fortiview.
 author: dg
 tag: Networking, Fortinet
-image: ../../assets/checklist.jpg
+image: ../../assets/fortinet.jpg
 ---
 I've been jumping knee-deep in Fortinet firewalls and their logging + reporting systems.
 

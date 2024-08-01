@@ -4,7 +4,7 @@ pubDate: 2023-05-22
 intro: Azure Security with baselines.
 author: dg
 tag: Microsoft, Azure
-image: ../../assets/checklist.jpg
+image: ../../assets/azure-baseline.jpg
 ---
 
 # Introduction:

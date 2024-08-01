@@ -4,7 +4,7 @@ pubDate: 2020-03-19
 intro: Useful Fortinet High Availability Commands.
 author: dg
 tag: Networking, Fortinet
-image: ../../assets/checklist.jpg
+image: ../../assets/fortinet.jpg
 ---
 
 Over the past couple of months, I've had to configure HA (High Availability) on several Fortigate firewalls. During the setup process and troubleshooting, I found the commands below to be most useful.

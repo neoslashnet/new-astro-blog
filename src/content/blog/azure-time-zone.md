@@ -4,7 +4,7 @@ pubDate: 2021-02-21
 intro: How to change the time zone on an Azure VM.
 author: dg
 tag: Microsoft, Azure
-image: ../../assets/checklist.jpg
+image: ../../assets/azure-baseline.jpg
 ---
 I noticed while working on a project that all my VM's in Azure were set to the UTC timezone. Time synchronization is critical in domain-based environments and I like to avoid issues cropping up if I can help it.
 

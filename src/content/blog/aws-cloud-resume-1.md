@@ -4,7 +4,7 @@ pubDate: 2023-09-01
 intro: Part 1 of the AWS Cloud Resume Challenge. Building a Static S3 Website and Implementing CloudFront.
 author: dg
 tag: AWS, Cloud
-image: ../../assets/checklist.jpg
+image: ../../assets/cloudresume.jpg
 ---
 
 # Introduction 

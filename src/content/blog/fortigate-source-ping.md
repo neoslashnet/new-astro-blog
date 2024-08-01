@@ -4,7 +4,7 @@ pubDate: 2020-08-25
 intro: How to specify the source interface for ping- Fortinet
 author: dg
 tag: Networking, Fortinet
-image: ../../assets/checklist.jpg
+image: ../../assets/fortinet.jpg
 ---
 I've been jumping knee-deep in Fortinet firewalls and their logging + reporting systems.
 
