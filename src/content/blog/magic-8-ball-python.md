@@ -4,7 +4,7 @@ pubDate: 2024-01-31
 intro: Magic 8 ball app in Python.
 author: dg
 tag: Python
-image: ../../assets/checklist.jpg
+image: ../../assets/python.jpg
 ---
 
 I am doing a Python course that requires hands-on projects vs. watching training videos. Below is a "Magic 8 Ball" app I made based on a project that required elif statements.

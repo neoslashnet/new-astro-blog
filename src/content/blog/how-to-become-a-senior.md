@@ -4,7 +4,7 @@ pubDate: 2024-01-15
 intro: Practical tips to become a senior engineer.
 author: dg
 tag: Business, Consulting
-image: ../../assets/checklist.jpg
+image: ../../assets/678.jpg
 ---
 
 # Introduction

@@ -4,7 +4,7 @@ pubDate: 2023-10-23
 intro: Looking at the AWS six advantages of cloud computing and providing real-world examples.
 author: dg
 tag: AWS, Cloud
-image: ../../assets/checklist.jpg
+image: ../../assets/cloud.jpg
 ---
 
 # Introduction
