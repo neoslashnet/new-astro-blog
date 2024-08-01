@@ -1,0 +1,25 @@
+---
+title: "Enable RDP on Raspberry Pi"
+pubDate: 2020-03-19
+intro: How to enable RDP on Raspberry Pi.
+author: dg
+tag: Linux
+image: ../../assets/raspberry-pi.jpg
+---
+I've started using Raspberry Pi as a small management box at branch offices where there is little to no infrastructure. This is useful in scenarios where I have VPN access but doesn't always want to send traffic across. Maybe it's just me but sometimes I like to be on the local network.
+
+Initially I didn't know you could enable RDP on Raspbian. Turns out it is quite simple.
+
+Run the following commands
+
+```bash
+sudo apt install update
+
+sudo apt install upgrade
+
+sudo apt install xrdp
+```
+
+After this is installed you can confirm the IP address on the Raspberry Pi by running ***ifconfig.***
+
+Once you get the IP address you can RDP into the Raspberry Pi via Windows or macOS.

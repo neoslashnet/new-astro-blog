@@ -1,0 +1,35 @@
+---
+title: "Specify source interface for ping- Fortinet"
+pubDate: 2020-08-25
+intro: How to specify the source interface for ping- Fortinet
+author: dg
+tag: Networking, Fortinet
+image: ../../assets/checklist.jpg
+---
+I've been jumping knee-deep in Fortinet firewalls and their logging + reporting systems.
+
+One thing that was driving me crazy is the fact the "Source" section was only the IP address. On the Fortigate firewall under "Fortiview" it did list the "Source IP Hostname" but it meant digging pretty deep into the logs. On the Fortianalyzer product it didn't list the "Source IP Hostname" at all.
+
+After digging around I found the commands to enable this on both the Fortigate and Fortianalyzer.
+
+FortiGate
+
+```bash
+config log setting  
+set resolve-ip enable  
+end
+```
+
+FortiAnalyzer can resolve the IPs for FortiView & Reports, just not Log View.
+
+1. FortiView  
+    On FortiAnalyzer, for FortiView widgets, using DNS resolution to resolve IPs to hostname is configurable via the CLI:
+    
+
+```bash
+config system fortiview setting  
+set resolve-ip {enable | disable}  
+end
+```
+
+Hope this post helps someone in the future with the same issue!
