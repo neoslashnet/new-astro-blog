@@ -3,7 +3,7 @@ title: "Export AD Audit details to a CSV File"
 pubDate: 2019-06-20
 intro: Learn how to export AD Audit details to CSV.
 author: dg
-tag: Networking, Fortinet
+tag: Microsoft, Active Directory
 image: ../../assets/4393.jpg
 ---
 
