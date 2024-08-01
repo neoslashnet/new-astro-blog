@@ -1,6 +1,6 @@
 export default {
     title: "David Galiata's Blog",
-    titleSuffix: "| galiata.blog",
+    titleSuffix: "|galiata.blog",
     description: "I am an IT Consultant turned Cybersecurity Architect with a passion for DevOps, Cybersecurity, and Cloud technologies. Committed to lifelong learning, I enjoy sharing my industry adventures through blogging.",
     defaultOgImage: "./logo.png",
     latestPosts: 5,
