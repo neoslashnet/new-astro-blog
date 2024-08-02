@@ -9,7 +9,7 @@ image: ../../assets/owasp.png
 
 # Introduction
 
-As I was studying for the Certified Cloud Security Professional (CCSP) certification, I delved deep into various aspects of cybersecurity and the methodologies to protect web applications. One of the critical resources I came across was the OWASP Top 10, which highlights the most common and impactful security risks facing web applications today. Given its relevance, I decided to cover this topic in a blog post to share my insights and help others understand these security risks.
+As I was studying for the Certified Cloud Security Professional (CCSP) certification, I studied various aspects of cybersecurity and the methodologies to protect web applications. One of the resources I came across was the OWASP Top 10, which highlights the most common and impactful security risks facing web applications today. Given its relevance, I decided to cover this topic in a blog post to share some thoughts and help others understand these security risks.
 
 The OWASP Top 10 is a widely recognized standard for web application security. This list identifies the most critical security risks to web applications and provides guidance on how to mitigate them. Understanding and addressing these risks is essential for anyone involved in developing, maintaining, or securing web applications.
 
@@ -113,4 +113,4 @@ SSRF involves an attacker crafting a request to an unexpected destination, bypas
 - Follow deny-by-default firewall policies.
 - Disable HTTP redirections.
 
-Understanding and mitigating these risks is crucial for maintaining the security of web applications. By implementing best practices and staying updated on the latest security threats, organizations can protect their systems and data from potential attacks.
+Understanding and mitigating these risks is crucial for maintaining the security of web applications. Implementing best practices and staying updated on the latest security threats helps organizations protect their systems and data from potential attacks.
