@@ -4,7 +4,7 @@ pubDate: 2024-02-08
 intro: A framework for responding to alerts in the cloud.
 author: dg
 tag: Cybersecurity, Cloud
-image: ../../assets/alertdash.jpg
+image: ../../assets/dashboard.jpg
 ---
 
 # Introduction
